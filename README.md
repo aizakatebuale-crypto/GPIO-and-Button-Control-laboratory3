@@ -11,12 +11,12 @@ This activity is a walkthrough for Laboratory Activity 3 (GPIO and Button Contro
 
 • Explicit Conditional Logic: Uses structured if/else statements instead of ternary operators to make the control flow easier to follow.
 
-## Observation Summary
+## Observation Table
 
-| Button State | Input Pin Logic | LED 1 (Pin 18) | LED 2 (Pin 19) | Behavior Notes |
+| Button State | Input Pin Logic | LED 1 (Pin 18) | LED 2 (Pin 19) | 
 | :--- | :--- | :--- | :--- | :--- |
-| **Released** | HIGH | **ON** | **OFF** | Internal pull-up holds GPIO 23 at 3.3V; LED 1 defaults to HIGH. |
-| **Pressed** | LOW | **OFF** | **ON** | Button shorts GPIO 23 to GND (0V); LED outputs invert instantly. |
+| **Released** | HIGH | **ON** | **OFF** | 
+| **Pressed** | LOW | **OFF** | **ON** | 
 
 ## Source Code
 
