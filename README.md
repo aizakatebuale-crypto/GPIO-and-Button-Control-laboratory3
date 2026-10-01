@@ -13,10 +13,10 @@ This activity is a walkthrough for Laboratory Activity 3 (GPIO and Button Contro
 
 ## Observation Table
 
-| Button State | Input Pin Logic | LED 1 (Pin 18) | LED 2 (Pin 19) | 
-| :--- | :--- | :--- | :--- | :--- |
-| **Released** | HIGH | **ON** | **OFF** | 
-| **Pressed** | LOW | **OFF** | **ON** | 
+| Button State | Input Pin Logic | LED 1 (Pin 18) | LED 2 (Pin 19) |
+| :--- | :--- | :--- | :--- |
+| **Released** | HIGH | **ON** | **OFF** |
+| **Pressed** | LOW | **OFF** | **ON** |
 
 ## Source Code
 
