@@ -1,4 +1,4 @@
-<img width="4080" height="3060" alt="image" src="https://github.com/user-attachments/assets/adec5503-b18b-4f2c-95c7-e0d43df43a35" /># Laboratory Activity 3: GPIO and Button Control
+# Laboratory Activity 3: GPIO and Button Control
 
 ## Overview
 This activity is a walkthrough for Laboratory Activity 3 (GPIO and Button Control) using an ESP32. It shows how to read a tactile button press to flip two LEDs between opposite ON/OFF states. The setup relies on the ESP32's built-in INPUT_PULLUP resistor to keep inputs clean and uses simple if/else logic to manage the outputs.
@@ -56,10 +56,10 @@ void loop() {
 
 ## Photo
 
-<img width="1146" height="676" alt="image" src="https://github.com/user-attachments/assets/052d0a45-b5cd-4eff-ba8a-2d1ab31c125c" />
+<img width="4080" height="3060" alt="image" src="https://github.com/user-attachments/assets/adec5503-b18b-4f2c-95c7-e0d43df43a35" />
+
 
 ## Videos
-
 
 
 https://github.com/user-attachments/assets/d050d507-54c7-4415-8f62-029c579925fd
