@@ -52,6 +52,11 @@ void loop() {
   }
 }
 
+## Labeled Circuit Diagram
+
+![Uploading labeledcircuitdiagram.jpg…]()
+
+
 ## Circuit Documentation
 
 ## Photo
