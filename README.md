@@ -54,7 +54,8 @@ void loop() {
 
 ## Labeled Circuit Diagram
 
-![Uploading labeledcircuitdiagram.jpg…]()
+<img width="861" height="497" alt="image" src="https://github.com/user-attachments/assets/c73df115-e921-410b-8b37-5193c11b8c42" />
+
 
 
 ## Circuit Documentation
